@@ -130,7 +130,7 @@
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="CombustionCar.cpp" />
     <ClCompile Include="ElectricCar.cpp" />
-    <ClCompile Include="software_eng_lab1.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Car.h" />

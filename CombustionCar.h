@@ -7,7 +7,7 @@ class CombustionCar :
    
     public:
 
-        CombustionCar(string driver);
+        CombustionCar(string driver) const override;
 
         void displayDetails();
         
